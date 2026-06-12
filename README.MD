@@ -16,35 +16,36 @@ Before running the project:
 ```python
 YOUTUBE_API_KEY = "YOUR_API_KEY"
 
- Features
-Comment Collection
-Real-time YouTube comment extraction
-YouTube Data API integration
-Automated comment retrieval
-Continuous comment monitoring
+🚀 Key Features
 
-
-
-Sentiment Analysis
+🔴 Real-Time Comment Monitoring
+Live YouTube comment extraction
+Continuous comment collection pipeline
+Dynamic sentiment updates
+💬 Sentiment Analysis Engine
 Positive sentiment detection
 Negative sentiment detection
 Neutral sentiment detection
-Text preprocessing and cleaning
-NLP-based sentiment classification
+NLP-based text processing
+
+📊 Interactive Analytics Dashboard
+Real-time sentiment distribution
+Audience engagement metrics
+Trend monitoring
+Performance analytics
 
 
-Analytics & Reporting
-Sentiment distribution analysis
-Audience engagement monitoring
-Comment volume tracking
-Trend analysis
-Interactive dashboards
-Data Processing
+📈 Data Visualization
+Sentiment pie charts
+Bar chart analysis
+Trend graphs
+Comment volume analysis
 
 
-Real-time data ingestion
-Data cleaning and preprocessing
-Automated sentiment scoring
+⚡ Automated Data Processing
+Comment preprocessing
+Text cleaning
+Sentiment scoring
 Structured data storage
 
 YouTube Video
@@ -94,3 +95,31 @@ Matplotlib
 Storage
 CSV
 MYSQL
+
+📊 Dashboard Insights
+
+The dashboard provides:
+
+✅ Total Comments Processed
+
+✅ Positive Sentiment Percentage
+
+✅ Negative Sentiment Percentage
+
+✅ Neutral Sentiment Percentage
+
+✅ Audience Engagement Analysis
+
+✅ Sentiment Trend Monitoring
+
+✅ Comment Activity Tracking
+
+✅ Interactive Data Visualizations
+
+🔮 Future Enhancements
+Multi-language Sentiment Analysis
+Real-Time Streaming Analytics
+Topic Detection
+Emotion Classification
+Cloud Deployment
+Advanced NLP Models
