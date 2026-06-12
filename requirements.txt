@@ -1,0 +1,7 @@
+google-api-python-client
+kafka-python
+pyspark
+textblob
+mysql-connector-python
+streamlit
+pandas
